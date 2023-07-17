@@ -1,0 +1,14 @@
+body{
+    background-color:navy;
+    text-align: center;
+}
+h1,h2{
+    text-align: center;
+    color: yellow;
+}
+table{
+    align-content: center;
+}
+tr, td{
+    text-align: justify;
+}

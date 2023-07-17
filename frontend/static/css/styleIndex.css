@@ -1,0 +1,10 @@
+body{
+    background-color:navy;
+}
+h1,h2{
+    text-align: center;
+    color: yellow;
+}
+img{
+    height: 50 px;
+}
